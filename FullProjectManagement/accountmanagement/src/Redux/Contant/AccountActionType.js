@@ -1,0 +1,2 @@
+export const FETCH_ACCOUNT_LIST = "FETCH_ACCOUNT_LIST";
+
